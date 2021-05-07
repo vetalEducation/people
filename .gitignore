@@ -1,7 +1,7 @@
 ###Ignored files###
-People/[dick]*.java
-PeopleFunctions/[dick]*.java
-People/[pussy]*.java
-PeopleFunctions/[pussy]*.java
-People/[fuck]*.java
-PeopleFunctions/[fuck]*.java
+People/dick.java
+People/pussy.java
+People/fuck.java
+PeopleFunctions/dick.java
+PeopleFunctions/pussy.java
+PeopleFunctions/fuck.java
