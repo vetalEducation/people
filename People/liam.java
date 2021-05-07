@@ -12,6 +12,6 @@ public class Liam {
 	
 	@Override
 	public String toString() {
-		return "Liam {" + "liam = " + code + '}';
+		return "Liam {" + "IDcode = " + IDcode + ", surname = " + surname + '}';
 	}
 }
