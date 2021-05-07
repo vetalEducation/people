@@ -1,4 +1,4 @@
-public class John {
+public class John extends People {
 	public final long IDcode = (long) (Math.random * 40_000_000);
 	private String surname;
 
