@@ -12,6 +12,6 @@ public class John {
 	
 	@Override
 	public String toString() {
-		return "Surname {" + "surname = " + code + '}';
+		return "John {" + "IDcode = " + IDcode + ", surname = " + surname + '}';
 	}
 }
