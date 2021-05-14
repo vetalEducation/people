@@ -3,6 +3,6 @@ public class Eminem extends People {
 	
 	@Override
 	public String toString() {
-		return "John {" + "IDcode = " + IDcode'}';
+		return "Eminem {" + "IDcode = " + IDcode'}';
 	}
 }
