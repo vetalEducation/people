@@ -1,7 +1,7 @@
 public class TestPeople {
 	public static void main(String[] args) {
-		John john = new John("Smith");
-		Liam liam = new Liam("Scott");
+		John john = new John("Lennon");
+		Liam liam = new Liam("Howlett");
 		
 		john.moveBack();
 		john.moveForward();
